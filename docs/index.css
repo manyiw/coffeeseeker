@@ -39,10 +39,6 @@ ul.nav li:hover {
   transition: 0s;
 }
 
-img {
-  float: left;
-}
-
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
