@@ -64,7 +64,7 @@ th, td {
   padding: 3px 15px;
 }
 
-td.trcell, td.facell, td.uicell, td.mmcell {
+td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
@@ -77,12 +77,9 @@ td.facell {
 }
 
 td.uicell {
-  color: organge;
-}
-
-td.mmcell {
   color: aqua;
 }
+
 
 h1 {
   color: maroon;
