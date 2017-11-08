@@ -44,11 +44,6 @@ img {
   float: right;
 }
 
-img {
-  margin: 0px 40px;
-  float: right;
-}
-
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
@@ -83,6 +78,10 @@ td.facell {
 
 td.uicell {
   color: organge;
+}
+
+td.mmcell {
+  color: navy;
 }
 
 h1 {
