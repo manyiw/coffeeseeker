@@ -9,7 +9,7 @@ body {
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: #935d01;
+  background-color: #68460c;
 }
 
 ul.nav li {
@@ -29,7 +29,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: #935d01;
+  color: #68460c;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ img {
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: #935d01;
+  border-color: #68460c;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
@@ -55,7 +55,7 @@ table {
 
 th {
   color: white;
-  background-color: #935d01;
+  background-color: #68460c;
 }
 
 th, td {
@@ -77,7 +77,7 @@ td.uicell {
 
 
 h1 {
-  color: #935d01;
+  color: #68460c;
 }
 
 h2 {
