@@ -9,7 +9,7 @@ body {
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: brown;
+  background-color: maroon;
 }
 
 ul.nav li {
@@ -24,25 +24,27 @@ ul.nav li a {
 }
 
 ul.nav li a:hover {
-  background-color: #555;
+  background-color: maroon;
   transition: 0s;
 }
 
 ul.nav li a.active {
-  color: brown;
-  background-color: #FFF;
+  color: maroon;
+  background-color: maroon;
   font-weight: bold;
 }
 
 ul.nav li:hover {
-  background-color: #555;
+  background-color: maroon;
   transition: 0s;
 }
 
 img {
-  border: 10px;
-  border-style: solid;
-  border-color: brown;
+  margin: 0px 40px;
+  float: right;
+}
+
+img {
   margin: 0px 40px;
   float: right;
 }
@@ -50,7 +52,7 @@ img {
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: brown;
+  border-color: maroon;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
@@ -80,9 +82,9 @@ td.facell {
 }
 
 td.uicell {
-  color: #ffc107;
+  color: organge;
 }
 
 h1 {
-  color: brown;
+  color: maroon;
 }
