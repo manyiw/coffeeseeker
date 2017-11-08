@@ -4,7 +4,7 @@
 
 body {
   background-image: url('http://www.seriouseats.com/images/2015/08/20150818-coffee-beans-shutterstock_71813833.jpg');
-  opacity: 0.3;
+  background-opacity: 0.3;
   margin: 0 10%;
 }
 
