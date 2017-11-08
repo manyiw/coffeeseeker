@@ -9,7 +9,7 @@ body {
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: maroon;
+  background-color: darkred;
 }
 
 ul.nav li {
@@ -29,12 +29,12 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: white;
+  color: darkred;
   background-color: #FFF;
   font-weight: bold;
 }
 
-ul.nav li:hover {
+ul.nav li:hover { 
   background-color: #555;
   transition: 0s;
 }
