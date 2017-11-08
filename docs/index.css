@@ -24,18 +24,18 @@ ul.nav li a {
 }
 
 ul.nav li a:hover {
-  background-color: maroon;
+  background-color: #555;
   transition: 0s;
 }
 
 ul.nav li a.active {
-  color: maroon;
-  background-color: maroon;
+  color: white;
+  background-color: #FFF;
   font-weight: bold;
 }
 
 ul.nav li:hover {
-  background-color: maroon;
+  background-color: #555;
   transition: 0s;
 }
 
@@ -64,7 +64,7 @@ th, td {
   padding: 3px 15px;
 }
 
-td.trcell, td.facell, td.uicell {
+td.trcell, td.facell, td.uicell, td.mmcell {
   font-weight: bold;
 }
 
@@ -81,7 +81,7 @@ td.uicell {
 }
 
 td.mmcell {
-  color: navy;
+  color: aqua;
 }
 
 h1 {
